@@ -6,3 +6,4 @@ se ts=4
 set ruler
 map <C-C> <C-D>
 noremap <C-A> <Home>
+set noet
